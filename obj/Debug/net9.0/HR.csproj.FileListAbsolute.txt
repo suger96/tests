@@ -1,0 +1,14 @@
+/Users/aliallami/RiderProjects/ABC/HR/bin/Debug/net9.0/HR
+/Users/aliallami/RiderProjects/ABC/HR/bin/Debug/net9.0/HR.deps.json
+/Users/aliallami/RiderProjects/ABC/HR/bin/Debug/net9.0/HR.runtimeconfig.json
+/Users/aliallami/RiderProjects/ABC/HR/bin/Debug/net9.0/HR.dll
+/Users/aliallami/RiderProjects/ABC/HR/bin/Debug/net9.0/HR.pdb
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.AssemblyInfoInputs.cache
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.AssemblyInfo.cs
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.csproj.CoreCompileInputs.cache
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.dll
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/refint/HR.dll
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.pdb
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/HR.genruntimeconfig.cache
+/Users/aliallami/RiderProjects/ABC/HR/obj/Debug/net9.0/ref/HR.dll
