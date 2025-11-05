@@ -13,6 +13,7 @@ internal abstract class Program
             Console.WriteLine(binary);
             
         }
+        //hiii
 
         Console.ReadKey();
     }
